@@ -1,0 +1,26 @@
+In a production version of this game, we would need to create the following image assets:
+
+1. Player sprites:
+   - player.png - Player character for underground
+   - player_with_mask.png - Player character wearing a radiation mask
+
+2. Environmental tiles:
+   - underground_tile.png - Tile for underground areas
+   - aboveground_tile.png - Tile for above ground areas
+   - elevator.png - Elevator for changing levels
+
+3. Game items:
+   - mask.png - Radiation mask item
+   - oxygen_tank.png - Oxygen tank item
+   - tomato_seed.png - Tomato seed item
+   - lettuce_seed.png - Lettuce seed item
+   - watering_can.png - Watering can item
+   - solar_panel.png - Solar panel item (inventory)
+   - solar_panel_placed.png - Solar panel (placed on ground)
+   - tomato_crop.png - Tomato plant at different growth stages
+   - lettuce_crop.png - Lettuce plant at different growth stages
+   - market.png - Marketplace building
+
+These images would need to be placed in the public/images/ directory for the game to access them.
+
+For now, we're implementing the game mechanics and will replace these with actual assets later. 
